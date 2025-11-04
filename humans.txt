@@ -1,0 +1,18 @@
+/* TEAM */
+Developer: Milton Alexander Reyes
+Website: https://miltonreyesdev.com
+Email: miltonbracol@gmail.com
+Location: Frederico Westphalen, RS, Brazil
+Twitter: https://instagram.com/milton_colombia
+LinkedIn: https://www.linkedin.com/in/miltonreyesdev/
+GitHub: https://github.com/miltonreyesdev/
+
+/* SITE */
+Last update: 2025-11-01
+Language: Portuguese (Brazil)
+Standards: HTML5, CSS3, JavaScript, Accessibility (WCAG)
+Tools: VS Code, GitHub, Font Awesome, Google Fonts
+Frameworks: jQuery, custom CSS
+
+/* THANKS */
+Thanks for visiting my portfolio!
