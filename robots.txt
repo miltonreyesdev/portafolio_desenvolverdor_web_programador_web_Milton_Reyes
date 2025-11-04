@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://miltonreyesdev.com/sitemap.xml
+Sitemap: https://miltonreyesdev.com.br/sitemap.xml
 
 # Optimización para single page
 Crawl-delay: 1
